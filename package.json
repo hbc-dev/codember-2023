@@ -1,0 +1,12 @@
+{
+  "name": "codember-2023",
+  "version": "1.0.0",
+  "description": "Retos noviembre comunidad midudev by hbc",
+  "main": "index.js",
+  "scripts": {
+    "challenge1" : "ts-node CHALLENGE_01/solution.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -4,7 +4,7 @@ Retos noviembre comunidad midudev by hbc
 # SCORE (2023-11-05)
 **Retos:** 1/1
 
-**Secretos:** 2/3\n
+**Secretos:** 2/3
 
 **Posición:** #594 (6.588.383 puntos)
 
